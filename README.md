@@ -1,6 +1,6 @@
 # Hi, I'm Pavitra 👋
 
-📍 **New Delhi, India** | ⚡ **Teenage builder** | 🧠 **Research Fellow @ IIT Kanpur**
+📍 **New Delhi, India** | ⚡ **high-schooler** | 🧠 **Research Fellow @ IIT Kanpur**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
