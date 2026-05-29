@@ -70,11 +70,11 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@pavitrakush-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pavitrakushwaha)
+[![Twitter](https://img.shields.io/badge/-@pavitrakush-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)
 [![LinkedIn](https://img.shields.io/badge/-Pavitra_Kushwaha-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavitrakushwaha)
 [![byteforge](https://img.shields.io/badge/-byteforge.space-39FF14?style=flat-square&logo=github&logoColor=black)](https://byteforge.space)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/Pavitrakus/pavitra-minimal)
-[![Email](https://img.shields.io/badge/-pavitra@byteforge.space-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pavitra@byteforge.space)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://pavitrakushwaha.dev)
+[![Email](https://img.shields.io/badge/-pavitra@byteforge.space-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pavitra@paxus.in)
 
 ---
 
